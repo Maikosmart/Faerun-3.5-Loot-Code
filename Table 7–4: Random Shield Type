@@ -1,0 +1,13 @@
+# Table 7–4: Random Shield Type
+
+| d%   | Shield                  | Shield Cost¹ |
+|------|------------------------|--------------|
+| 01–17 | Buckler                | +165 gp      |
+| 18–34 | Light wooden shield    | +153 gp      |
+| 35–51 | Light steel shield     | +159 gp      |
+| 52–68 | Heavy wooden shield    | +157 gp      |
+| 69–85 | Heavy steel shield     | +170 gp      |
+| 86–100| Tower shield           | +180 gp      |
+
+¹ Add this cost to the enhancement bonus value from Table 7–2: Armor and Shields to determine total market price.  
+All magic shields are masterwork (armor check penalty reduced by 1).
