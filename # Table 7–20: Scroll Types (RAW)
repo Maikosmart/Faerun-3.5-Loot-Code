@@ -1,0 +1,33 @@
+# Table 7–20: Scroll Types (RAW)
+
+| d% roll | Type |
+|--------|------|
+| 01–70  | Arcane |
+| 71–100 | Divine |
+
+
+# Table 7–21: Number of Spells on a Scroll (RAW)
+
+| Scroll Type   | Number of Spells |
+|---------------|-----------------|
+| Minor scroll  | 1d3 spells |
+| Medium scroll | 1d4 spells |
+| Major scroll  | 1d6 spells |
+
+
+# Table 7–22: Scroll Spell Levels (RAW)
+
+| Minor d% | Medium d% | Major d% | Spell Level | Spell’s Caster Level¹ |
+|----------|-----------|----------|-------------|----------------------|
+| 01–05    | —         | —        | 0           | 1st |
+| 06–50    | —         | —        | 1st         | 1st |
+| 51–95    | 01–05     | —        | 2nd         | 3rd |
+| 96–100   | 06–65     | —        | 3rd         | 5th |
+| —        | 66–95     | 01–05    | 4th         | 7th |
+| —        | 96–100    | 06–50    | 5th         | 9th |
+| —        | —         | 51–70    | 6th         | 11th |
+| —        | —         | 71–85    | 7th         | 13th |
+| —        | —         | 86–95    | 8th         | 15th |
+| —        | —         | 95–100   | 9th         | 17th |
+
+¹ Assumes creator is cleric, druid, or wizard.
