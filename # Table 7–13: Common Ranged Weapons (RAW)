@@ -1,0 +1,91 @@
+# Table 7–13: Common Ranged Weapons (RAW)
+
+| d% | Weapon | Weapon Cost¹ |
+|----|--------|--------------|
+| 01–10 | Ammunition (roll again):<br>01–50 Arrows (50)<br>51–80 Bolts, crossbow (50)<br>81–100 Bullets, sling (50) | +350 gp |
+| 11–15 | Axe, throwing | +308 gp |
+| 16–25 | Crossbow, heavy | +350 gp |
+| 26–35 | Crossbow, light | +335 gp |
+| 36–39 | Dart | +300 gp 5 sp |
+| 40–41 | Javelin | +301 gp |
+| 42–46 | Shortbow | +330 gp |
+| 47–51 | Shortbow, composite (+0 Str bonus) | +375 gp |
+| 52–56 | Shortbow, composite (+1 Str bonus) | +450 gp |
+| 57–61 | Shortbow, composite (+2 Str bonus) | +525 gp |
+| 62–65 | Sling | +300 gp |
+| 66–75 | Longbow | +375 gp |
+| 76–80 | Longbow, composite | +400 gp |
+| 81–85 | Longbow, composite (+1 Str bonus) | +500 gp |
+| 86–90 | Longbow, composite (+2 Str bonus) | +600 gp |
+| 91–95 | Longbow, composite (+3 Str bonus) | +700 gp |
+| 96–100 | Longbow, composite (+4 Str bonus) | +800 gp |
+
+¹ Add to enhancement bonus on Table 7–9: Weapons to determine total market price.  
+All magic weapons are masterwork weapons.
+
+
+# Table 7–14: Melee Weapon Special Abilities (RAW)
+
+| Minor d% | Medium d% | Major d% | Special Ability | Base Price Modifier¹ |
+|----------|-----------|----------|----------------|---------------------|
+| 01–10    | 01–06     | 01–03    | Bane           | +1 bonus            |
+| 11–17    | 07–12     | —        | Defending      | +1 bonus            |
+| 18–27    | 13–19     | 04–06    | Flaming        | +1 bonus            |
+| 28–37    | 20–26     | 07–09    | Frost          | +1 bonus            |
+| 38–47    | 27–33     | 10–12    | Shock          | +1 bonus            |
+| 48–56    | 34–38     | 13–15    | Ghost touch    | +1 bonus            |
+| 57–67    | 39–44     | —        | Keen²          | +1 bonus            |
+| 68–71    | 45–48     | 16–19    | Ki Focus       | +1 bonus            |
+| 72–75    | 49–50     | —        | Merciful       | +1 bonus            |
+| 76–82    | 51–54     | 20–21    | Mighty cleaving | +1 bonus          |
+| 83–87    | 55–59     | 22–24    | Spell storing  | +1 bonus            |
+| 88–91    | 60–63     | 25–28    | Throwing       | +1 bonus            |
+| 92–95    | 64–65     | 29–32    | Thundering     | +1 bonus            |
+| 96–99    | 66–69     | 33–36    | Vicious        | +1 bonus            |
+| —        | 70–72     | 37–41    | Anarchic       | +2 bonus            |
+| —        | 73–75     | 42–46    | Axiomatic      | +2 bonus            |
+| —        | 76–78     | 47–49    | Disruption³    | +2 bonus            |
+| —        | 79–81     | 50–54    | Flaming burst  | +2 bonus            |
+| —        | 82–84     | 55–59    | Icy burst      | +2 bonus            |
+| —        | 85–87     | 60–64    | Holy           | +2 bonus            |
+| —        | 88–90     | 65–69    | Shocking burst | +2 bonus            |
+| —        | 91–93     | 70–74    | Unholy         | +2 bonus            |
+| —        | 94–95     | 75–78    | Wounding       | +2 bonus            |
+| —        | —         | 79–83    | Speed          | +3 bonus            |
+| —        | —         | 84–86    | Brilliant energy | +4 bonus         |
+| —        | —         | 87–88    | Dancing        | +4 bonus            |
+| —        | —         | 89–90    | Vorpal²        | +5 bonus            |
+| 100      | 96–100    | 91–100   | Roll again twice⁴ | —                |
+
+¹ Add to Table 7–9 enhancement bonus for total market price.  
+² Piercing or slashing only; reroll otherwise.  
+³ Bludgeoning only; reroll otherwise.  
+⁴ Reroll conflicts, duplicates, or exceeding +10 total bonus.
+
+# Table 7–15: Ranged Weapon Special Abilities (RAW)
+
+| Minor d% | Medium d% | Major d% | Special Ability | Base Price Modifier¹ |
+|----------|-----------|----------|----------------|---------------------|
+| 01–12    | 01–08     | 01–04    | Bane           | +1 bonus            |
+| 13–25    | 09–16     | 05–08    | Distance       | +1 bonus            |
+| 26–40    | 17–28     | 09–12    | Flaming        | +1 bonus            |
+| 41–55    | 29–40     | 13–16    | Frost          | +1 bonus            |
+| 56–60    | 41–42     | —        | Merciful       | +1 bonus            |
+| 61–68    | 43–47     | 17–21    | Returning      | +1 bonus            |
+| 69–83    | 48–59     | 22–25    | Shock          | +1 bonus            |
+| 84–93    | 60–64     | 26–27    | Seeking        | +1 bonus            |
+| 94–99    | 65–68     | 28–29    | Thundering     | +1 bonus            |
+| —        | 69–71     | 30–34    | Anarchic       | +2 bonus            |
+| —        | 72–74     | 35–39    | Axiomatic      | +2 bonus            |
+| —        | 75–79     | 40–49    | Flaming burst  | +2 bonus            |
+| —        | 80–82     | 50–54    | Holy           | +2 bonus            |
+| —        | 83–87     | 55–64    | Icy burst      | +2 bonus            |
+| —        | 88–92     | 65–74    | Shocking burst | +2 bonus            |
+| —        | 93–95     | 75–79    | Unholy         | +2 bonus            |
+| —        | —         | 80–84    | Speed          | +3 bonus            |
+| —        | —         | 85–90    | Brilliant energy | +4 bonus          |
+| 100      | 96–100    | 91–100   | Roll again twice² | —                 |
+
+¹ Add to Table 7–9 enhancement bonus for total market price.  
+² Same reroll rules as Table 7–14.
+
