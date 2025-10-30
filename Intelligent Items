@@ -1,0 +1,151 @@
+# Table 7–30: Item Intelligence, Wisdom, Charisma, and Capabilities
+
+| d%   | Mental Ability Scores              | Communication                    | Capabilities                                  | Senses                                              | Base Price Modifier |
+|------|-----------------------------------|----------------------------------|-----------------------------------------------|-----------------------------------------------------|-------------------:|
+| 01–34 | Two scores 12, one 10             | Empathy¹                         | One lesser power                              | 30 ft. vision & hearing                             | +1,000 gp          |
+| 35–59 | Two scores 13, one 10             | Empathy¹                         | Two lesser powers                             | 60 ft. vision & hearing                             | +2,000 gp          |
+| 60–79 | Two scores 14, one 10             | Speech²                          | Two lesser powers                             | 120 ft. vision & hearing                            | +4,000 gp          |
+| 80–91 | Two scores 15, one 10             | Speech²                          | Three lesser powers                           | 60 ft. darkvision & hearing                         | +5,000 gp          |
+| 92–97 | Two scores 16, one 10             | Speech²³                         | Three lesser powers                           | 60 ft. darkvision & hearing                         | +6,000 gp          |
+| 98    | Two scores 17, one 10             | Speech, telepathy³⁴              | Three lesser & one greater power⁶             | 120 ft. darkvision & hearing                        | +9,000 gp          |
+| 99    | Two scores 18, one 10             | Speech, telepathy⁴⁵              | Three lesser & two greater powers⁶            | 120 ft. darkvision, blindsense & hearing            | +12,000 gp         |
+| 100   | Two scores 19, one 10             | Speech, telepathy⁴⁵              | Four lesser & three greater powers⁶           | 120 ft. darkvision, blindsense & hearing            | +15,000 gp         |
+
+---
+
+### Notes
+1. Empathy = emotional urges to influence wielder’s decisions.  
+2. Item speaks Common + 1 additional language per point of Int bonus.  
+3. Item can read any languages it can speak.  
+4. Speech or telepathy usable at will.  
+5. Item can read all languages and use *read magic*.  
+6. One greater power may instead be a special purpose with a dedicated power.
+
+
+# Table: Intelligent Item Alignment
+
+| d%   | Alignment        | Usability Note |
+|------|-----------------|----------------|
+| 01–05 | Chaotic Good     | — |
+| 06–15 | Chaotic Neutral  | Usable by any Chaotic wielder (CG, CN, CE) |
+| 16–20 | Chaotic Evil     | — |
+| 21–25 | Neutral Evil     | Usable by any Evil wielder (LE, NE, CE) |
+| 26–30 | Lawful Evil      | — |
+| 31–55 | Lawful Good      | — |
+| 56–60 | Lawful Neutral   | Usable by any Lawful wielder (LG, LN, LE) |
+| 61–80 | Neutral Good     | Usable by any Good wielder (LG, NG, CG) |
+| 81–100 | Neutral         | Usable by any wielder |
+
+---
+
+Neutral parts of alignment act like flexible hinges: the blade might have opinions, but it’s not so picky about who holds the hilt — provided you share its strongest conviction.
+
+# Table: Intelligent Item Lesser Powers
+
+| d%   | Lesser Power | Base Price Modifier |
+|------|--------------|-------------------:|
+| 01–05 | Bless allies 3/day | +1,000 gp |
+| 06–10 | *Faerie Fire* 3/day | +1,100 gp |
+| 11–13 | *Minor Image* 1/day | +2,200 gp |
+| 14–20 | *Deathwatch* (continuous) | +2,700 gp |
+| 21–25 | *Detect Magic* (at will) | +3,600 gp |
+| 26–31 | Skill bonus: 10 ranks Intimidate | +5,000 gp |
+| 32–33 | Skill bonus: 10 ranks Decipher Script | +5,000 gp |
+| 34–36 | Skill bonus: 10 ranks Knowledge (choose type) | +5,000 gp |
+| 37–40 | Skill bonus: 10 ranks Search | +5,000 gp |
+| 41–45 | Skill bonus: 10 ranks Spot | +5,000 gp |
+| 46–50 | Skill bonus: 10 ranks Listen | +5,000 gp |
+| 51–54 | Skill bonus: 10 ranks Spellcraft | +5,000 gp |
+| 55–60 | Skill bonus: 10 ranks Sense Motive | +5,000 gp |
+| 61–66 | Skill bonus: 10 ranks Bluff | +5,000 gp |
+| 67–72 | Skill bonus: 10 ranks Diplomacy | +5,000 gp |
+| 73–77 | *Major Image* 1/day | +5,400 gp |
+| 78–80 | *Darkness* 3/day | +6,500 gp |
+| 81–83 | *Hold Person* 3/day | +6,500 gp |
+| 84–86 | *Zone of Truth* 3/day | +6,500 gp |
+| 87–89 | *Daze Monster* 3/day | +6,500 gp |
+| 90–95 | *Locate Object* 3/day | +6,500 gp |
+| 96–100 | *Cure Moderate Wounds* (2d8+3) on wielder, 3/day | +6,500 gp |
+
+
+# Table: Intelligent Item Greater Powers
+
+| d% | Greater Power | Base Price Modifier |
+|----|---------------|------------------:|
+| 01–06 | *Detect Opposing Alignment* (at will) | +7,200 gp |
+| 07–10 | *Detect Undead* (at will) | +7,200 gp |
+| 11–13 | *Cause Fear* (at will) | +7,200 gp |
+| 14–18 | *Dimensional Anchor* on a foe (1/day) | +10,000 gp |
+| 19–23 | *Dismissal* on a foe (1/day) | +10,000 gp |
+| 24–28 | *Lesser Globe of Invulnerability* (1/day) | +10,000 gp |
+| 29–33 | *Arcane Eye* (1/day) | +10,000 gp |
+| 34–37 | Continuous *Detect Scrying* | +10,000 gp |
+| 38–41 | *Wall of Fire* ring centered on wielder (1/day) | +10,000 gp |
+| 42–45 | *Quench* fires (3/day) | +16,000 gp |
+| 46–50 | *Status* effect (at will) | +11,000 gp |
+| 51–54 | *Gust of Wind* (3/day) | +11,000 gp |
+| 55–59 | *Clairvoyance* (3/day) | +16,000 gp |
+| 60–64 | *Magic Circle Against Opposing Alignment* (at will) | +16,000 gp |
+| 65–68 | *Haste* on its wielder (3/day) | +16,000 gp |
+| 69–73 | *Daylight* (3/day) | +16,000 gp |
+| 74–76 | *Deeper Darkness* (3/day) | +16,000 gp |
+| 77–80 | *Invisibility Purge* (30 ft. radius, 3/day) | +16,000 gp |
+| 81–85 | *Slow* on enemies (3/day) | +16,000 gp |
+| 86–91 | *Locate Creature* (3/day) | +30,000 gp |
+| 92–97 | *Fear* on foes (3/day) | +30,000 gp |
+| 98–100 | *Detect Thoughts* (at will) | +44,000 gp |
+
+# Table: Intelligent Item — Special Purpose
+
+| d% | Special Purpose | Notes |
+|----|-----------------|-------|
+| 01–20 | Defeat/slay diametrically opposed alignment | Neutral items target extreme alignments (LG, CG, LE, CE) to preserve balance |
+| 21–30 | Defeat/slay arcane spellcasters | Includes monsters with spell-like abilities |
+| 31–40 | Defeat/slay divine spellcasters | Includes divine creatures and servitors |
+| 41–50 | Defeat/slay nonspellcasters | The item has had enough of mundanes |
+| 51–55 | Defeat/slay a specific creature type | Use *bane* creature types as reference |
+| 56–60 | Defeat/slay a specific race or kind | “Dwarves. Short. Loud. Too bearded.” — Sword, probably |
+| 61–70 | Defend a particular race or kind | A protector of “its people” |
+| 71–80 | Defeat/slay servants of a specific deity | Crusades come in pocket size |
+| 81–90 | Defend servants/interests of a specific deity | Holy relic with a mission |
+| 91–95 | Defeat/slay everyone except wielder & item | Peak murderhobo sentiment |
+| 96–100 | DM or wielder’s choice | The narrative calls the shot |
+
+# Intelligent Item — Dedicated Powers
+
+| d% | Dedicated Power | Base Price Modifier |
+|----|-----------------|-------------------:|
+| 01–06 | Item can use *ice storm* | +50,000 gp |
+| 07–12 | Item can use *confusion* | +50,000 gp |
+| 13–17 | Item can use *phantasmal killer* | +50,000 gp |
+| 18–24 | Item can use *crushing despair* | +50,000 gp |
+| 25–31 | Item can use *dimension door* (self + wielder) | +50,000 gp |
+| 32–36 | Item can use *contagion* (Heightened to 4th) as touch attack | +56,000 gp |
+| 37–43 | Item can use *poison* (Heightened to 4th) as touch attack | +56,000 gp |
+| 44–50 | Item can use *rusting grasp* as touch attack | +56,000 gp |
+| 51–56 | Item can cast *lightning bolt* (10d6) | +60,000 gp |
+| 57–62 | Item can cast *fireball* (10d6) | +60,000 gp |
+| 63–68 | Wielder gains +2 luck bonus on attacks, saves, and checks | +80,000 gp |
+| 69–74 | Item can use *mass inflict light wounds* | +81,000 gp |
+| 75–81 | Item can use *song of discord* | +81,000 gp |
+| 82–87 | Item can use *prying eyes* | +81,000 gp |
+| 88–92 | Item can cast *greater shout* (15d6) 3/day | +130,000 gp |
+| 93–98 | Item can use *waves of exhaustion* | +164,000 gp |
+| 99–100 | Item can use *true resurrection* on wielder, 1/month | +200,000 gp |
+
+# Intelligent Item — Ego Score Calculation
+
+| Attribute of the Item | Ego Points |
+|----------------------|:----------:|
+| Enhancement bonus (per +1) | +1 |
+| Each +1 value of special ability bonuses | +1 |
+| Each Lesser Power | +1 |
+| Each Greater Power | +2 |
+| Special Purpose (includes a Dedicated Power) | +4 |
+| Telepathy | +1 |
+| Reads Languages | +1 |
+| Reads Magic | +1 |
+| Each +1 of Intelligence bonus | +1 |
+| Each +1 of Wisdom bonus | +1 |
+| Each +1 of Charisma bonus | +1 |
+
