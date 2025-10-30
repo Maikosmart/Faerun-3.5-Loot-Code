@@ -1,0 +1,110 @@
+# Common Curses for Magic Items
+
+| d% Range | Curse Type | What It Really Means |
+|---------:|------------|--------------------|
+| 01–15 | **Delusion** | The item *pretends* to have powers… but they are entirely imaginary. The wielder believes, the DM laughs. |
+| 16–35 | **Opposite Effect or Target** | Healing becomes harming, slaying arrows seek your friends, “buffs” become self-nerfs. Delicious betrayal. |
+| 36–45 | **Intermittent Functioning** | The item occasionally decides it's *on break*. Random failure exactly when needed most. |
+| 46–60 | **Requirement** | Item demands behaviors, items, or rituals. “Only works while wearing a dead goldfish on your hat.” |
+| 61–75 | **Drawback** | Side-effects. Every use may hurt or inconvenience. Stuff like “You glow and scream for 1d6 rounds.” |
+| 76–90 | **Completely Different Effect** | The label is a lie. Looks like Boots of Speed. Turns out: Boots of Interpretive Dance. |
+| 91–100 | **Substitute Cursed Item** | Surprise! You never got the real loot—this was always a cursed copy. The merchant already left town. |
+
+
+# Situational Curse Triggers
+
+These are the conditions when cursed magic gets frisky.
+
+| d% Range | Trigger Condition |
+|---------:|------------------|
+| 01–03 | Temperature below freezing |
+| 04–05 | Temperature above freezing |
+| 06–10 | During the day |
+| 11–15 | During the night |
+| 16–20 | In direct sunlight |
+| 21–25 | Out of direct sunlight |
+| 26–34 | Underwater |
+| 35–37 | Out of water |
+| 38–45 | Underground |
+| 46–55 | Aboveground |
+| 56–60 | Within 10 ft. of a **random creature type** |
+| 61–64 | Within 10 ft. of a **random race or kind of creature** |
+| 65–72 | Within 10 ft. of an **arcane spellcaster** |
+| 73–80 | Within 10 ft. of a **divine spellcaster** |
+| 81–85 | Held by a **nonspellcaster** |
+| 86–90 | Held by a **spellcaster** |
+| 91–95 | Held by a creature of a **particular alignment** |
+| 96 | Held by a creature of a **specific gender** |
+| 97–99 | On **nonholy days** or **astrological events** (“Mercury is retrograde, your sword hates you.”) |
+| 100 | More than 100 miles from a **specific site** (“Return me to the Mountain or suffer!”) |
+
+# Drawbacks for Cursed Items
+
+| d% Range | Drawback |
+|---------:|----------|
+| 01–04 | Hair grows 1 inch longer (one-time) |
+| 05–09 | Grow or shrink ½ inch (one-time) |
+| 10–13 | Temperature around item -10°F |
+| 14–17 | Temperature around item +10°F |
+| 18–21 | Hair color changes |
+| 22–25 | Skin color changes |
+| 26–29 | Character gains odd identifying mark |
+| 30–32 | Gender changes |
+| 33–34 | Race or kind changes |
+| 35 | Incurable random disease |
+| 36–39 | Item constantly emits disturbing sounds |
+| 40 | Item looks ridiculous |
+| 41–45 | User becomes selfishly possessive |
+| 46–49 | User becomes paranoid about losing item |
+| 50–51 | Alignment changes |
+| 52–54 | 5% daily chance to attack nearest creature |
+| 55–57 | Stunned 1d4 rounds after use (or 1/day) |
+| 58–60 | Blurry vision (–2 vision-based rolls) |
+| 61–64 | Gain 1 negative level |
+| 65 | Gain 2 negative levels |
+| 66–70 | Daily Will save or –1 Int |
+| 71–75 | Daily Will save or –1 Wis |
+| 76–80 | Daily Will save or –1 Cha |
+| 81–85 | Daily Fort save or –1 Con |
+| 86–90 | Daily Fort save or –1 Str |
+| 91–95 | Daily Fort save or –1 Dex |
+| 96 | 5% daily polymorph into specific creature |
+| 97 | Cannot cast arcane spells |
+| 98 | Cannot cast divine spells |
+| 99 | Cannot cast any spells |
+| 100 | DM chooses or custom-tailors a new horror |
+
+# Table 7–31: Specific Cursed Items
+
+| d% Range | Item | Market Price |
+|--------:|------|---------------:|
+| 01–05 | Incense of obsession | 200 gp |
+| 06–15 | Ring of clumsiness | 500 gp |
+| 16–20 | Amulet of inescapable location | 1,000 gp |
+| 21–25 | Stone of weight | 1,000 gp |
+| 26–30 | Bracers of defenselessness | 1,200 gp |
+| 31–35 | Gauntlets of fumbling | 1,300 gp |
+| 36–40 | Sword –2, cursed | 1,500 gp |
+| 41–43 | Armor of rage | 1,600 gp |
+| 44–46 | Medallion of thought projection | 1,800 gp |
+| 47–52 | Flask of curses | 2,100 gp |
+| 53–54 | Dust of sneezing and choking | 2,400 gp |
+| 55 | Helm of opposite alignment | 4,000 gp |
+| 56–60 | Potion of poison | 5,000 gp |
+| 61 | Broom of animated attack | 5,200 gp |
+| 62–63 | Robe of powerlessness | 5,500 gp |
+| 64 | Vacuous grimoire | 6,000 gp |
+| 65–68 | Spear, cursed backbiter | 7,500 gp |
+| 69–70 | Armor of arrow attraction | 9,000 gp |
+| 71–72 | Net of snaring | 10,000 gp |
+| 73–75 | Bag of devouring | — |
+| 76–80 | Mace of blood | 16,000 gp |
+| 81–85 | Robe of vermin | 16,500 gp |
+| 86–88 | Periapt of foul rotting | 17,000 gp |
+| 89–92 | Sword, berserking | 17,500 gp |
+| 93–96 | Boots of dancing | 30,000 gp |
+| 97 | Crystal hypnosis ball | — |
+| 98 | Necklace of strangulation | 60,000 gp |
+| 99 | Cloak of poisonousness | 62,000 gp |
+| 100 | Scarab of death | 80,000 gp |
+
